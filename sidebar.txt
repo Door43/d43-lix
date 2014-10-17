@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lix:home|Door43 (lix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lix|d43-lix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lix/archive/master.zip|d43-lix.zip]]
+
+**Recent Changes**
+{{changes>ns = lix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lix|Ethnologue data]]
+
